@@ -1,0 +1,501 @@
+comment_id,comment,language,date,location
+1,I reported unresponsive staff weeks ago but no action taken. Disappointed.,English,5/17/23,Region IV-A
+2,The disaster response in davao city needs improvement. delayed response,English,7/24/24,Region VII
+3,Lgu services in cebu city have improved significantly this year.,English,1/10/23,Region IV-A
+4,Why is barangay hall services always delayed in maynila? This is unacceptable.,English,7/3/24,Region III
+5,I'm frustrated with poor communication at the angeles city. Please fix!,English,6/4/24,Region III
+6,Sana all may disaster preparedness! Pero kulang pa rin 😔,Taglish,1/6/23,Region IV-A
+7,The road maintenance staff were very helpful during my visit to baguio.,English,5/28/24,Region VII
+8,The health center in bacolod needs improvement. broken infrastructure,English,1/18/23,Region III
+9,Thank you lgu for the business support! Children have better access to services,English,6/9/24,Region XI
+10,I reported long queues weeks ago but no action taken. Disappointed.,English,2/11/23,Region VII
+11,The water supply in iloilo city needs improvement. poor communication,English,7/6/23,Region IV-A
+12,I'm frustrated with delayed response at the cebu city. Please fix!,English,5/20/23,Region VII
+13,Why is waste management always delayed in bacolod? This is unacceptable.,English,8/10/23,Region III
+14,Great job on the health services! Our community appreciates the effort.,English,5/9/23,Region VII
+15,Jeepney shortage every holiday season. Fix po sa transport system!,Taglish,6/29/24,Region III
+16,Great job on the community programs! Our community appreciates the effort.,English,6/26/23,Region XI
+17,Ang hirap po ng water supply dito sa cagayan de oro 😭 inconsistent schedules,Taglish,6/10/24,NCR
+18,Lgu services in cebu city have improved significantly this year.,English,11/25/23,Region III
+19,Sana all may business support! Pero kulang pa rin 😔,Taglish,2/1/23,Region III
+20,The waste management in iloilo city needs improvement. long queues,English,2/2/24,Region III
+21,Bakit po ang tagal ng road maintenance sa cebu city? Nakakainis na!,Taglish,12/22/23,NCR
+22,Great job on the disaster preparedness! Our community appreciates the effort.,English,3/12/23,Region VII
+23,The public market in angeles city needs improvement. inconsistent schedules,English,1/6/24,NCR
+24,I reported lack of resources weeks ago but no action taken. Disappointed.,English,7/12/24,Region IV-A
+25,Great job on the health services! Our community appreciates the effort.,English,3/21/24,Region XI
+26,Gutom ang mga bata sa barangay namin. Tulong po sa delayed response!,Taglish,9/29/23,NCR
+27,The business permit processing staff were very helpful during my visit to naga city.,English,5/27/24,Region III
+28,The business permit processing in cebu city needs improvement. inconsistent schedules,English,1/26/23,Region VII
+29,Gutom ang mga bata sa barangay namin. Tulong po sa inconsistent schedules!,Taglish,10/21/23,Region XI
+30,Salamat po sa business support! Sobrang laking tulong 👍,Taglish,7/9/23,Region IV-A
+31,Great job on the disaster preparedness! Our community appreciates the effort.,English,12/7/23,NCR
+32,Lgu services in cagayan de oro have improved significantly this year.,English,9/30/23,Region VII
+33,Why is transport system always delayed in baguio? This is unacceptable.,English,3/29/23,NCR
+34,Public evacuation center in zamboanga is severely lacking. unresponsive staff,English,12/29/24,Region XI
+35,Ang hirap po ng public market dito sa baguio 😭 delayed response,Taglish,9/9/24,Region IV-A
+36,"Bahala na attitude ng iba, pero salamat sa ayuda distribution!",Taglish,10/5/24,Region XI
+37,Thank you lgu for the health services! Our barangay is safer now,English,10/8/23,Region IV-A
+38,I reported broken infrastructure weeks ago but no action taken. Disappointed.,English,7/7/23,Region III
+39,The disaster response in baguio needs improvement. poor communication,English,5/17/23,Region XI
+40,Why is health center always delayed in iloilo city? This is unacceptable.,English,2/23/24,Region XI
+41,The new health center in zamboanga has made a huge difference!,English,3/11/23,NCR
+42,The new road in maynila has made a huge difference!,English,7/24/23,Region XI
+43,Jeepney shortage every rainy season. Fix po sa transport system!,Taglish,4/2/24,Region III
+44,Public disaster response in zamboanga is severely lacking. delayed response,English,3/22/24,Region III
+45,Ang hirap po ng evacuation center dito sa cebu city 😭 delayed response,Taglish,7/16/23,Region VII
+46,Jeepney shortage every holiday season. Fix po sa transport system!,Taglish,1/28/24,NCR
+47,Mas maganda na ang road maintenance ngayon sa iloilo city. Salamat lgu!,Taglish,4/11/23,Region III
+48,Salamat po sa disaster preparedness! Sobrang laking tulong 👍,Taglish,6/21/23,Region XI
+49,Public water supply in angeles city is severely lacking. delayed response,English,9/13/23,Region XI
+50,Salamat po sa ayuda distribution! Sobrang laking tulong 👍,Taglish,9/24/23,Region VII
+51,Jeepney shortage every holiday season. Fix po sa transport system!,Taglish,8/7/24,NCR
+52,The evacuation center in iloilo city needs improvement. poor communication,English,4/7/24,Region III
+53,I'm frustrated with unresponsive staff at the zamboanga. Please fix!,English,4/12/24,Region III
+54,Mas maganda na ang disaster response ngayon sa cagayan de oro. Salamat lgu!,Taglish,7/26/23,Region IV-A
+55,The waste management in maynila needs improvement. poor communication,English,7/20/23,NCR
+56,Gutom ang mga bata sa barangay namin. Tulong po sa poor communication!,Taglish,2/23/23,Region XI
+57,The new health center in davao city has made a huge difference!,English,8/16/24,Region IV-A
+58,Why is waste management always delayed in zamboanga? This is unacceptable.,English,3/7/24,Region VII
+59,Sana all may disaster preparedness! Pero kulang pa rin 😔,Taglish,3/19/24,NCR
+60,I reported broken infrastructure weeks ago but no action taken. Disappointed.,English,4/15/24,Region III
+61,Jeepney shortage every holiday season. Fix po sa transport system!,Taglish,7/13/23,Region VII
+62,I reported unresponsive staff weeks ago but no action taken. Disappointed.,English,11/14/23,NCR
+63,I reported broken infrastructure weeks ago but no action taken. Disappointed.,English,4/6/23,Region XI
+64,Great job on the road repairs! Our community appreciates the effort.,English,3/28/23,Region XI
+65,Jeepney shortage every weekends. Fix po sa transport system!,Taglish,9/28/24,Region III
+66,Nakakalungkot po ang condition ng road sa davao city,Taglish,11/17/23,NCR
+67,I reported unresponsive staff weeks ago but no action taken. Disappointed.,English,12/25/24,Region VII
+68,The new health center in zamboanga has made a huge difference!,English,6/22/23,Region III
+69,Jeepney shortage every holiday season. Fix po sa transport system!,Taglish,2/25/23,Region III
+70,The waste management in maynila needs improvement. long queues,English,6/30/24,Region IV-A
+71,Thank you lgu for the disaster preparedness! Our barangay is safer now,English,1/12/24,Region XI
+72,The health center staff were very helpful during my visit to naga city.,English,12/5/23,Region III
+73,Why is waste management always delayed in cagayan de oro? This is unacceptable.,English,10/31/24,Region VII
+74,Lgu services in cagayan de oro have improved significantly this year.,English,6/14/24,Region VII
+75,Nakakalungkot po ang condition ng barangay hall sa cagayan de oro,Taglish,3/30/24,NCR
+76,Thank you lgu for the ayuda distribution! This helps our family survive,English,1/1/24,Region III
+77,The road maintenance staff were very helpful during my visit to cebu city.,English,11/27/23,Region IV-A
+78,The transport system in iloilo city needs improvement. delayed response,English,9/26/24,NCR
+79,Bakit po ang tagal ng barangay hall services sa baguio? Nakakainis na!,Taglish,6/27/24,Region VII
+80,The new barangay hall in iloilo city has made a huge difference!,English,12/27/24,Region XI
+81,Lgu services in bacolod have improved significantly this year.,English,10/18/24,NCR
+82,Gutom ang mga bata sa barangay namin. Tulong po sa lack of resources!,Taglish,1/23/23,Region III
+83,Nakakalungkot po ang condition ng road sa baguio,Taglish,12/3/23,Region XI
+84,Thank you lgu for the ayuda distribution! Children have better access to services,English,12/26/24,Region IV-A
+85,The health center in iloilo city needs improvement. poor communication,English,4/23/24,Region IV-A
+86,Thank you lgu for the business support! This helps our family survive,English,10/22/24,NCR
+87,Lgu services in angeles city have improved significantly this year.,English,3/7/24,Region XI
+88,Lgu services in cebu city have improved significantly this year.,English,10/2/24,Region VII
+89,The health center staff were very helpful during my visit to bacolod.,English,8/13/24,Region XI
+90,I reported delayed response weeks ago but no action taken. Disappointed.,English,1/27/23,Region VII
+91,Thank you lgu for the business support! Our barangay is safer now,English,2/25/23,Region VII
+92,Why is waste management always delayed in iloilo city? This is unacceptable.,English,8/20/23,Region VII
+93,Thank you lgu for the ayuda distribution! Children have better access to services,English,1/10/23,Region VII
+94,Thank you lgu for the disaster preparedness! Children have better access to services,English,8/22/24,Region XI
+95,The water supply in maynila needs improvement. lack of resources,English,3/5/23,Region III
+96,I'm frustrated with unresponsive staff at the angeles city. Please fix!,English,6/18/24,Region III
+97,The road maintenance in maynila needs improvement. broken infrastructure,English,12/14/23,Region XI
+98,Why is water supply always delayed in zamboanga? This is unacceptable.,English,2/24/24,Region XI
+99,Maraming salamat sa lgu! Nakatulong kayo sa aming pamilya 🙏,Taglish,4/23/24,Region IV-A
+100,I reported inconsistent schedules weeks ago but no action taken. Disappointed.,English,11/5/24,Region VII
+101,Public health center in maynila is severely lacking. long queues,English,11/3/23,Region III
+102,I'm frustrated with unresponsive staff at the cebu city. Please fix!,English,5/27/24,Region XI
+103,The transport system in cagayan de oro needs improvement. long queues,English,2/25/24,Region IV-A
+104,Great job on the road repairs! Our community appreciates the effort.,English,4/27/23,Region III
+105,Public disaster response in iloilo city is severely lacking. poor communication,English,9/8/24,Region XI
+106,"Bahala na attitude ng iba, pero salamat sa business support!",Taglish,4/11/24,Region III
+107,Lgu services in naga city have improved significantly this year.,English,4/24/24,Region VII
+108,Why is waste management always delayed in iloilo city? This is unacceptable.,English,11/21/24,NCR
+109,The new road in bacolod has made a huge difference!,English,8/2/23,Region III
+110,Thank you lgu for the ayuda distribution! Our barangay is safer now,English,12/19/24,Region III
+111,Lgu services in davao city have improved significantly this year.,English,7/22/24,Region VII
+112,Why is public market always delayed in angeles city? This is unacceptable.,English,1/4/24,NCR
+113,I reported inconsistent schedules weeks ago but no action taken. Disappointed.,English,11/19/24,NCR
+114,I'm frustrated with poor communication at the cagayan de oro. Please fix!,English,2/27/24,Region IV-A
+115,Lgu services in maynila have improved significantly this year.,English,2/23/24,NCR
+116,Thank you lgu for the ayuda distribution! Children have better access to services,English,9/5/23,Region VII
+117,I reported broken infrastructure weeks ago but no action taken. Disappointed.,English,10/22/24,Region VII
+118,I reported poor communication weeks ago but no action taken. Disappointed.,English,5/23/23,Region IV-A
+119,Public waste management in angeles city is severely lacking. inconsistent schedules,English,8/14/23,Region XI
+120,"Bahala na attitude ng iba, pero salamat sa business support!",Taglish,4/23/24,NCR
+121,Thank you lgu for the health services! Our barangay is safer now,English,12/17/24,Region IV-A
+122,The new road in naga city has made a huge difference!,English,7/22/24,Region VII
+123,Nakakalungkot po ang condition ng public market sa angeles city,Taglish,7/26/24,Region VII
+124,I'm frustrated with lack of resources at the maynila. Please fix!,English,5/2/23,Region IV-A
+125,Thank you lgu for the community programs! Our barangay is safer now,English,8/22/24,NCR
+126,Gutom ang mga bata sa barangay namin. Tulong po sa poor communication!,Taglish,6/19/24,Region III
+127,Thank you lgu for the health services! Small businesses can thrive,English,6/27/24,Region IV-A
+128,I reported inconsistent schedules weeks ago but no action taken. Disappointed.,English,6/23/23,Region IV-A
+129,I'm frustrated with broken infrastructure at the cagayan de oro. Please fix!,English,1/15/24,Region III
+130,I reported broken infrastructure weeks ago but no action taken. Disappointed.,English,2/13/24,Region XI
+131,Gutom ang mga bata sa barangay namin. Tulong po sa long queues!,Taglish,12/14/24,Region VII
+132,Why is water supply always delayed in davao city? This is unacceptable.,English,9/7/24,Region IV-A
+133,I'm frustrated with lack of resources at the bacolod. Please fix!,English,5/18/23,Region VII
+134,Lgu services in cagayan de oro have improved significantly this year.,English,11/9/24,Region IV-A
+135,Nakakalungkot po ang condition ng barangay hall sa iloilo city,Taglish,4/7/23,NCR
+136,Lgu services in davao city have improved significantly this year.,English,3/9/24,Region VII
+137,"Bahala na attitude ng iba, pero salamat sa ayuda distribution!",Taglish,12/29/24,Region IV-A
+138,I'm frustrated with lack of resources at the iloilo city. Please fix!,English,7/22/24,Region III
+139,Why is water supply always delayed in iloilo city? This is unacceptable.,English,1/23/23,Region IV-A
+140,The transport system staff were very helpful during my visit to bacolod.,English,5/14/24,Region IV-A
+141,Why is road maintenance always delayed in zamboanga? This is unacceptable.,English,9/23/23,Region III
+142,Thank you lgu for the road repairs! Our barangay is safer now,English,2/22/23,Region VII
+143,Public road maintenance in davao city is severely lacking. lack of resources,English,5/2/23,Region XI
+144,Great job on the community programs! Our community appreciates the effort.,English,4/13/23,Region VII
+145,Public road maintenance in angeles city is severely lacking. unresponsive staff,English,3/19/23,Region III
+146,Jeepney shortage every weekends. Fix po sa transport system!,Taglish,3/13/23,Region VII
+147,Why is disaster response always delayed in maynila? This is unacceptable.,English,5/5/23,Region III
+148,The barangay hall services staff were very helpful during my visit to maynila.,English,8/13/24,Region IV-A
+149,Mas maganda na ang public market ngayon sa maynila. Salamat lgu!,Taglish,8/2/23,Region III
+150,Great job on the ayuda distribution! Our community appreciates the effort.,English,6/21/23,Region IV-A
+151,Bakit po ang tagal ng public market sa angeles city? Nakakainis na!,Taglish,3/19/24,Region VII
+152,The disaster response in maynila needs improvement. delayed response,English,6/24/23,Region III
+153,Maraming salamat sa lgu! Nakatulong kayo sa aming pamilya 🙏,Taglish,10/24/23,Region VII
+154,Public disaster response in maynila is severely lacking. poor communication,English,11/27/23,Region IV-A
+155,Public public market in zamboanga is severely lacking. broken infrastructure,English,6/18/24,Region III
+156,The public market staff were very helpful during my visit to baguio.,English,1/2/24,NCR
+157,Great job on the disaster preparedness! Our community appreciates the effort.,English,5/6/24,Region VII
+158,"Bahala na attitude ng iba, pero salamat sa road repairs!",Taglish,11/3/24,Region III
+159,Great job on the disaster preparedness! Our community appreciates the effort.,English,4/8/23,Region IV-A
+160,I'm frustrated with long queues at the iloilo city. Please fix!,English,2/26/23,Region VII
+161,The new evacuation center in angeles city has made a huge difference!,English,4/7/24,Region VII
+162,Why is disaster response always delayed in angeles city? This is unacceptable.,English,3/29/23,NCR
+163,Lgu services in angeles city have improved significantly this year.,English,2/24/23,NCR
+164,Why is business permit processing always delayed in iloilo city? This is unacceptable.,English,5/20/24,Region III
+165,The new health center in davao city has made a huge difference!,English,10/16/23,NCR
+166,Maraming salamat sa lgu! Nakatulong kayo sa aming pamilya 🙏,Taglish,12/1/24,Region IV-A
+167,Public business permit processing in angeles city is severely lacking. long queues,English,3/12/24,Region III
+168,The public market staff were very helpful during my visit to davao city.,English,6/27/23,Region III
+169,Lgu services in cagayan de oro have improved significantly this year.,English,8/19/23,Region IV-A
+170,Ang hirap po ng disaster response dito sa iloilo city 😭 delayed response,Taglish,12/21/24,Region XI
+171,The new health center in iloilo city has made a huge difference!,English,7/22/24,Region XI
+172,Salamat po sa disaster preparedness! Sobrang laking tulong 👍,Taglish,8/29/23,Region XI
+173,Ang hirap po ng public market dito sa bacolod 😭 broken infrastructure,Taglish,12/16/24,Region VII
+174,Maraming salamat sa lgu! Nakatulong kayo sa aming pamilya 🙏,Taglish,8/11/23,Region IV-A
+175,Mas maganda na ang transport system ngayon sa davao city. Salamat lgu!,Taglish,11/12/24,NCR
+176,I'm frustrated with broken infrastructure at the baguio. Please fix!,English,12/30/24,Region XI
+177,Sana all may business support! Pero kulang pa rin 😔,Taglish,12/4/24,Region III
+178,Public road maintenance in zamboanga is severely lacking. broken infrastructure,English,2/16/24,NCR
+179,The new health center in maynila has made a huge difference!,English,4/11/24,Region XI
+180,Nakakalungkot po ang condition ng road sa cagayan de oro,Taglish,8/25/24,Region VII
+181,Jeepney shortage every weekends. Fix po sa transport system!,Taglish,6/26/24,NCR
+182,I reported poor communication weeks ago but no action taken. Disappointed.,English,8/23/24,Region VII
+183,Great job on the business support! Our community appreciates the effort.,English,11/9/23,Region VII
+184,Nakakalungkot po ang condition ng evacuation center sa baguio,Taglish,5/25/23,Region XI
+185,The evacuation center staff were very helpful during my visit to cebu city.,English,9/20/23,NCR
+186,The new evacuation center in iloilo city has made a huge difference!,English,4/29/23,Region III
+187,Public business permit processing in zamboanga is severely lacking. long queues,English,5/12/24,Region VII
+188,The new road in cebu city has made a huge difference!,English,10/21/24,Region VII
+189,Thank you lgu for the ayuda distribution! Our barangay is safer now,English,3/1/23,Region IV-A
+190,Nakakalungkot po ang condition ng public market sa maynila,Taglish,9/14/24,NCR
+191,Lgu services in baguio have improved significantly this year.,English,1/19/24,Region IV-A
+192,I reported long queues weeks ago but no action taken. Disappointed.,English,8/30/24,Region III
+193,I reported inconsistent schedules weeks ago but no action taken. Disappointed.,English,4/7/24,Region XI
+194,Bakit po ang tagal ng road maintenance sa davao city? Nakakainis na!,Taglish,6/28/24,Region III
+195,The water supply staff were very helpful during my visit to naga city.,English,9/28/23,Region IV-A
+196,I reported broken infrastructure weeks ago but no action taken. Disappointed.,English,10/28/24,NCR
+197,The waste management staff were very helpful during my visit to maynila.,English,11/22/24,NCR
+198,Maraming salamat sa lgu! Nakatulong kayo sa aming pamilya 🙏,Taglish,7/18/23,Region III
+199,Why is health center always delayed in zamboanga? This is unacceptable.,English,11/21/24,Region III
+200,I'm frustrated with inconsistent schedules at the davao city. Please fix!,English,11/9/24,Region XI
+201,Mas maganda na ang barangay hall services ngayon sa baguio. Salamat lgu!,Taglish,8/9/24,Region III
+202,I'm frustrated with delayed response at the cebu city. Please fix!,English,1/23/23,Region VII
+203,The new road in zamboanga has made a huge difference!,English,8/14/23,Region VII
+204,Maraming salamat sa lgu! Nakatulong kayo sa aming pamilya 🙏,Taglish,1/15/23,Region XI
+205,The health center staff were very helpful during my visit to naga city.,English,5/8/24,NCR
+206,Lgu services in bacolod have improved significantly this year.,English,8/30/24,NCR
+207,I reported inconsistent schedules weeks ago but no action taken. Disappointed.,English,5/23/23,Region III
+208,Public evacuation center in angeles city is severely lacking. unresponsive staff,English,7/22/23,Region IV-A
+209,Why is transport system always delayed in maynila? This is unacceptable.,English,9/29/24,Region XI
+210,I reported inconsistent schedules weeks ago but no action taken. Disappointed.,English,8/5/24,Region XI
+211,The water supply staff were very helpful during my visit to iloilo city.,English,3/20/24,NCR
+212,The public market staff were very helpful during my visit to naga city.,English,1/23/24,NCR
+213,Sana all may disaster preparedness! Pero kulang pa rin 😔,Taglish,10/3/24,Region III
+214,The barangay hall services staff were very helpful during my visit to cagayan de oro.,English,6/19/24,Region XI
+215,Why is waste management always delayed in cebu city? This is unacceptable.,English,7/30/24,Region IV-A
+216,Thank you lgu for the road repairs! Our barangay is safer now,English,10/23/24,Region III
+217,I'm frustrated with broken infrastructure at the davao city. Please fix!,English,3/16/24,Region IV-A
+218,Public evacuation center in maynila is severely lacking. poor communication,English,8/17/24,Region XI
+219,Thank you lgu for the ayuda distribution! This helps our family survive,English,10/17/23,Region VII
+220,Mas maganda na ang business permit processing ngayon sa baguio. Salamat lgu!,Taglish,5/18/23,Region IV-A
+221,Sana all may road repairs! Pero kulang pa rin 😔,Taglish,4/17/24,Region VII
+222,Public business permit processing in baguio is severely lacking. poor communication,English,7/8/23,Region III
+223,Why is business permit processing always delayed in cagayan de oro? This is unacceptable.,English,7/8/23,NCR
+224,Lgu services in bacolod have improved significantly this year.,English,7/18/24,Region VII
+225,The new road in baguio has made a huge difference!,English,1/19/24,Region III
+226,I reported delayed response weeks ago but no action taken. Disappointed.,English,12/26/24,NCR
+227,Thank you lgu for the health services! This helps our family survive,English,2/6/23,Region III
+228,Ang hirap po ng waste management dito sa zamboanga 😭 delayed response,Taglish,2/9/24,Region XI
+229,Great job on the community programs! Our community appreciates the effort.,English,10/19/24,Region III
+230,I reported delayed response weeks ago but no action taken. Disappointed.,English,9/5/24,Region IV-A
+231,Why is water supply always delayed in bacolod? This is unacceptable.,English,8/26/23,Region VII
+232,Public water supply in baguio is severely lacking. long queues,English,2/4/24,Region VII
+233,Sana all may business support! Pero kulang pa rin 😔,Taglish,6/10/24,Region IV-A
+234,Gutom ang mga bata sa barangay namin. Tulong po sa lack of resources!,Taglish,6/18/24,Region VII
+235,I'm frustrated with inconsistent schedules at the maynila. Please fix!,English,12/24/23,Region III
+236,The new road in naga city has made a huge difference!,English,1/17/24,Region III
+237,Lgu services in davao city have improved significantly this year.,English,1/17/23,Region IV-A
+238,Great job on the business support! Our community appreciates the effort.,English,1/4/24,Region VII
+239,Public waste management in naga city is severely lacking. long queues,English,7/24/24,Region III
+240,Lgu services in cebu city have improved significantly this year.,English,5/27/24,Region VII
+241,Why is waste management always delayed in naga city? This is unacceptable.,English,3/7/24,NCR
+242,Salamat po sa ayuda distribution! Sobrang laking tulong 👍,Taglish,10/16/24,Region VII
+243,The barangay hall services in davao city needs improvement. inconsistent schedules,English,12/16/23,Region XI
+244,The health center in angeles city needs improvement. inconsistent schedules,English,1/23/24,Region VII
+245,The disaster response in baguio needs improvement. broken infrastructure,English,12/24/24,Region VII
+246,The transport system staff were very helpful during my visit to naga city.,English,2/12/24,Region XI
+247,"Bahala na attitude ng iba, pero salamat sa community programs!",Taglish,8/10/23,Region XI
+248,Why is barangay hall services always delayed in maynila? This is unacceptable.,English,5/23/24,Region III
+249,Mas maganda na ang road maintenance ngayon sa maynila. Salamat lgu!,Taglish,10/1/24,Region III
+250,Bakit po ang tagal ng business permit processing sa bacolod? Nakakainis na!,Taglish,1/15/23,NCR
+251,Thank you lgu for the business support! Children have better access to services,English,7/9/23,Region VII
+252,Thank you lgu for the community programs! Our barangay is safer now,English,6/16/24,Region VII
+253,I reported inconsistent schedules weeks ago but no action taken. Disappointed.,English,7/4/24,Region III
+254,The public market staff were very helpful during my visit to cagayan de oro.,English,2/2/24,NCR
+255,Salamat po sa road repairs! Sobrang laking tulong 👍,Taglish,8/3/23,Region III
+256,Great job on the road repairs! Our community appreciates the effort.,English,7/24/24,Region VII
+257,I'm frustrated with inconsistent schedules at the iloilo city. Please fix!,English,3/28/24,Region IV-A
+258,"Bahala na attitude ng iba, pero salamat sa disaster preparedness!",Taglish,11/21/24,NCR
+259,Why is water supply always delayed in maynila? This is unacceptable.,English,8/7/24,Region III
+260,The new evacuation center in bacolod has made a huge difference!,English,3/2/24,NCR
+261,Nakakalungkot po ang condition ng barangay hall sa cebu city,Taglish,10/19/24,NCR
+262,Public health center in baguio is severely lacking. delayed response,English,12/10/23,Region IV-A
+263,The new road in bacolod has made a huge difference!,English,9/23/23,NCR
+264,Bakit po ang tagal ng water supply sa cebu city? Nakakainis na!,Taglish,7/1/24,NCR
+265,Thank you lgu for the road repairs! This helps our family survive,English,8/14/23,NCR
+266,I'm frustrated with long queues at the bacolod. Please fix!,English,10/23/24,Region III
+267,Jeepney shortage every weekends. Fix po sa transport system!,Taglish,1/19/23,Region IV-A
+268,Thank you lgu for the road repairs! This helps our family survive,English,6/28/23,Region XI
+269,Thank you lgu for the health services! Children have better access to services,English,3/5/24,NCR
+270,Ang hirap po ng water supply dito sa cebu city 😭 long queues,Taglish,4/11/24,Region XI
+271,Gutom ang mga bata sa barangay namin. Tulong po sa lack of resources!,Taglish,12/5/24,Region III
+272,I reported poor communication weeks ago but no action taken. Disappointed.,English,8/2/24,Region IV-A
+273,Thank you lgu for the disaster preparedness! This helps our family survive,English,11/26/24,Region VII
+274,Lgu services in cagayan de oro have improved significantly this year.,English,6/2/23,Region XI
+275,Why is water supply always delayed in naga city? This is unacceptable.,English,2/16/23,Region IV-A
+276,Why is disaster response always delayed in cagayan de oro? This is unacceptable.,English,1/14/23,Region IV-A
+277,The road maintenance in naga city needs improvement. delayed response,English,7/18/23,Region VII
+278,Thank you lgu for the community programs! Small businesses can thrive,English,2/13/24,Region IV-A
+279,Maraming salamat sa lgu! Nakatulong kayo sa aming pamilya 🙏,Taglish,1/25/23,Region XI
+280,The evacuation center in naga city needs improvement. unresponsive staff,English,7/22/24,Region IV-A
+281,Great job on the disaster preparedness! Our community appreciates the effort.,English,10/21/23,NCR
+282,Public disaster response in baguio is severely lacking. long queues,English,3/24/24,Region III
+283,I reported poor communication weeks ago but no action taken. Disappointed.,English,4/28/23,Region VII
+284,Great job on the business support! Our community appreciates the effort.,English,1/5/23,NCR
+285,The public market staff were very helpful during my visit to naga city.,English,10/29/23,Region XI
+286,Public health center in cebu city is severely lacking. unresponsive staff,English,6/5/24,Region III
+287,Thank you lgu for the business support! Small businesses can thrive,English,11/19/24,NCR
+288,Thank you lgu for the road repairs! Our barangay is safer now,English,10/19/24,Region XI
+289,The transport system staff were very helpful during my visit to baguio.,English,3/1/24,Region VII
+290,Why is disaster response always delayed in davao city? This is unacceptable.,English,11/22/23,NCR
+291,Bakit po ang tagal ng water supply sa iloilo city? Nakakainis na!,Taglish,11/29/23,Region XI
+292,Salamat po sa health services! Sobrang laking tulong 👍,Taglish,2/12/24,NCR
+293,Great job on the business support! Our community appreciates the effort.,English,6/11/23,Region IV-A
+294,The waste management staff were very helpful during my visit to zamboanga.,English,4/16/24,Region IV-A
+295,Why is road maintenance always delayed in bacolod? This is unacceptable.,English,5/31/24,Region IV-A
+296,Thank you lgu for the disaster preparedness! Our barangay is safer now,English,5/9/24,Region III
+297,The waste management staff were very helpful during my visit to davao city.,English,4/23/24,Region IV-A
+298,The barangay hall services in davao city needs improvement. delayed response,English,8/26/23,Region VII
+299,The new public market in zamboanga has made a huge difference!,English,3/13/24,NCR
+300,Maraming salamat sa lgu! Nakatulong kayo sa aming pamilya 🙏,Taglish,2/7/24,NCR
+301,I reported delayed response weeks ago but no action taken. Disappointed.,English,6/7/23,Region III
+302,Sana all may ayuda distribution! Pero kulang pa rin 😔,Taglish,12/5/23,Region XI
+303,Maraming salamat sa lgu! Nakatulong kayo sa aming pamilya 🙏,Taglish,3/29/24,Region IV-A
+304,Thank you lgu for the business support! Our barangay is safer now,English,1/5/23,Region IV-A
+305,Public barangay hall services in maynila is severely lacking. lack of resources,English,1/11/24,Region VII
+306,The barangay hall services staff were very helpful during my visit to iloilo city.,English,8/30/24,Region III
+307,Thank you lgu for the community programs! This helps our family survive,English,12/20/24,NCR
+308,I'm frustrated with broken infrastructure at the cebu city. Please fix!,English,2/4/24,Region VII
+309,Great job on the community programs! Our community appreciates the effort.,English,1/29/24,Region III
+310,Gutom ang mga bata sa barangay namin. Tulong po sa broken infrastructure!,Taglish,6/12/23,Region IV-A
+311,Mas maganda na ang barangay hall services ngayon sa davao city. Salamat lgu!,Taglish,8/10/24,Region III
+312,Sana all may health services! Pero kulang pa rin 😔,Taglish,7/13/23,Region III
+313,Great job on the disaster preparedness! Our community appreciates the effort.,English,10/25/23,Region VII
+314,Thank you lgu for the community programs! Small businesses can thrive,English,7/9/23,Region IV-A
+315,I'm frustrated with lack of resources at the baguio. Please fix!,English,6/22/24,Region IV-A
+316,I reported delayed response weeks ago but no action taken. Disappointed.,English,2/4/24,Region III
+317,Lgu services in bacolod have improved significantly this year.,English,1/24/23,NCR
+318,Why is disaster response always delayed in iloilo city? This is unacceptable.,English,4/2/24,Region III
+319,Nakakalungkot po ang condition ng health center sa baguio,Taglish,1/15/23,Region XI
+320,The new evacuation center in davao city has made a huge difference!,English,5/5/23,NCR
+321,The public market staff were very helpful during my visit to angeles city.,English,11/12/24,Region III
+322,Public disaster response in angeles city is severely lacking. broken infrastructure,English,2/19/24,Region XI
+323,I'm frustrated with unresponsive staff at the cebu city. Please fix!,English,5/1/23,Region VII
+324,I'm frustrated with long queues at the naga city. Please fix!,English,11/9/23,Region IV-A
+325,Why is road maintenance always delayed in angeles city? This is unacceptable.,English,12/9/24,Region XI
+326,Mas maganda na ang road maintenance ngayon sa bacolod. Salamat lgu!,Taglish,1/16/24,Region III
+327,I'm frustrated with unresponsive staff at the cebu city. Please fix!,English,6/25/24,Region XI
+328,Sana all may business support! Pero kulang pa rin 😔,Taglish,11/20/24,Region III
+329,Gutom ang mga bata sa barangay namin. Tulong po sa inconsistent schedules!,Taglish,7/25/24,NCR
+330,The waste management in cagayan de oro needs improvement. inconsistent schedules,English,1/22/23,NCR
+331,Maraming salamat sa lgu! Nakatulong kayo sa aming pamilya 🙏,Taglish,8/17/24,Region XI
+332,"Bahala na attitude ng iba, pero salamat sa health services!",Taglish,3/3/24,NCR
+333,I reported delayed response weeks ago but no action taken. Disappointed.,English,2/13/24,Region IV-A
+334,Mas maganda na ang transport system ngayon sa bacolod. Salamat lgu!,Taglish,8/20/23,Region XI
+335,I'm frustrated with inconsistent schedules at the naga city. Please fix!,English,5/13/24,Region XI
+336,Jeepney shortage every weekends. Fix po sa transport system!,Taglish,6/26/24,Region IV-A
+337,Gutom ang mga bata sa barangay namin. Tulong po sa unresponsive staff!,Taglish,11/17/23,Region III
+338,Nakakalungkot po ang condition ng public market sa cebu city,Taglish,11/6/23,NCR
+339,I reported broken infrastructure weeks ago but no action taken. Disappointed.,English,7/17/24,Region VII
+340,Thank you lgu for the business support! Small businesses can thrive,English,10/23/23,Region XI
+341,Lgu services in maynila have improved significantly this year.,English,6/18/24,Region VII
+342,Public evacuation center in bacolod is severely lacking. delayed response,English,5/22/24,Region IV-A
+343,Thank you lgu for the business support! Children have better access to services,English,4/29/24,Region VII
+344,I'm frustrated with unresponsive staff at the baguio. Please fix!,English,8/14/24,Region III
+345,Lgu services in iloilo city have improved significantly this year.,English,2/2/24,Region III
+346,Salamat po sa health services! Sobrang laking tulong 👍,Taglish,10/17/23,NCR
+347,I'm frustrated with unresponsive staff at the bacolod. Please fix!,English,10/21/24,NCR
+348,I'm frustrated with unresponsive staff at the maynila. Please fix!,English,6/2/24,Region VII
+349,Great job on the business support! Our community appreciates the effort.,English,5/23/23,Region VII
+350,Lgu services in davao city have improved significantly this year.,English,10/19/23,NCR
+351,Thank you lgu for the business support! Our barangay is safer now,English,12/22/23,Region III
+352,The new health center in cebu city has made a huge difference!,English,6/29/24,Region VII
+353,The water supply staff were very helpful during my visit to bacolod.,English,7/17/23,Region IV-A
+354,Public public market in cebu city is severely lacking. inconsistent schedules,English,2/9/24,Region XI
+355,Mas maganda na ang disaster response ngayon sa cagayan de oro. Salamat lgu!,Taglish,11/28/24,NCR
+356,Great job on the disaster preparedness! Our community appreciates the effort.,English,9/30/23,Region IV-A
+357,The waste management staff were very helpful during my visit to baguio.,English,9/29/23,Region III
+358,I'm frustrated with delayed response at the angeles city. Please fix!,English,8/9/24,NCR
+359,Why is disaster response always delayed in angeles city? This is unacceptable.,English,1/29/24,Region IV-A
+360,Ang hirap po ng road maintenance dito sa cagayan de oro 😭 poor communication,Taglish,10/28/24,Region XI
+361,Why is barangay hall services always delayed in cagayan de oro? This is unacceptable.,English,10/5/23,Region VII
+362,The new evacuation center in cebu city has made a huge difference!,English,1/20/23,Region III
+363,Lgu services in iloilo city have improved significantly this year.,English,4/22/23,Region IV-A
+364,Lgu services in angeles city have improved significantly this year.,English,9/13/23,Region XI
+365,I'm frustrated with lack of resources at the zamboanga. Please fix!,English,5/30/24,Region IV-A
+366,Thank you lgu for the road repairs! Our barangay is safer now,English,5/23/24,Region IV-A
+367,I reported unresponsive staff weeks ago but no action taken. Disappointed.,English,11/2/23,Region VII
+368,The disaster response in cagayan de oro needs improvement. poor communication,English,7/25/23,Region XI
+369,The health center in naga city needs improvement. inconsistent schedules,English,10/3/24,Region IV-A
+370,Sana all may health services! Pero kulang pa rin 😔,Taglish,9/6/23,Region IV-A
+371,Salamat po sa road repairs! Sobrang laking tulong 👍,Taglish,12/13/23,Region VII
+372,Thank you lgu for the ayuda distribution! Our barangay is safer now,English,3/15/23,Region IV-A
+373,Jeepney shortage every weekends. Fix po sa transport system!,Taglish,2/10/23,Region VII
+374,I reported broken infrastructure weeks ago but no action taken. Disappointed.,English,4/4/23,Region XI
+375,The health center staff were very helpful during my visit to iloilo city.,English,10/26/23,Region III
+376,Maraming salamat sa lgu! Nakatulong kayo sa aming pamilya 🙏,Taglish,5/6/24,NCR
+377,"Bahala na attitude ng iba, pero salamat sa disaster preparedness!",Taglish,6/19/24,Region VII
+378,The public market staff were very helpful during my visit to cagayan de oro.,English,4/18/23,NCR
+379,Lgu services in zamboanga have improved significantly this year.,English,11/11/23,Region XI
+380,Great job on the disaster preparedness! Our community appreciates the effort.,English,10/13/23,Region III
+381,Thank you lgu for the disaster preparedness! Small businesses can thrive,English,11/3/24,Region IV-A
+382,I reported long queues weeks ago but no action taken. Disappointed.,English,7/17/24,Region III
+383,Public health center in baguio is severely lacking. broken infrastructure,English,11/24/23,Region IV-A
+384,The road maintenance in naga city needs improvement. unresponsive staff,English,7/24/23,Region XI
+385,The health center staff were very helpful during my visit to zamboanga.,English,10/16/24,Region IV-A
+386,The transport system in zamboanga needs improvement. long queues,English,5/19/24,Region XI
+387,I'm frustrated with delayed response at the davao city. Please fix!,English,11/2/23,Region III
+388,Ang hirap po ng waste management dito sa cagayan de oro 😭 poor communication,Taglish,3/23/23,NCR
+389,Maraming salamat sa lgu! Nakatulong kayo sa aming pamilya 🙏,Taglish,12/20/24,Region VII
+390,Why is business permit processing always delayed in davao city? This is unacceptable.,English,7/2/24,NCR
+391,The disaster response staff were very helpful during my visit to davao city.,English,9/17/24,Region III
+392,Bakit po ang tagal ng road maintenance sa naga city? Nakakainis na!,Taglish,4/22/24,Region IV-A
+393,Maraming salamat sa lgu! Nakatulong kayo sa aming pamilya 🙏,Taglish,1/27/23,NCR
+394,Public evacuation center in cagayan de oro is severely lacking. inconsistent schedules,English,12/6/24,NCR
+395,I reported unresponsive staff weeks ago but no action taken. Disappointed.,English,12/11/23,Region III
+396,Mas maganda na ang road maintenance ngayon sa iloilo city. Salamat lgu!,Taglish,6/14/24,NCR
+397,Maraming salamat sa lgu! Nakatulong kayo sa aming pamilya 🙏,Taglish,2/9/24,NCR
+398,Gutom ang mga bata sa barangay namin. Tulong po sa unresponsive staff!,Taglish,12/16/23,Region XI
+399,Lgu services in naga city have improved significantly this year.,English,5/29/23,Region III
+400,Great job on the community programs! Our community appreciates the effort.,English,7/12/23,Region III
+401,Thank you lgu for the road repairs! This helps our family survive,English,9/1/24,Region III
+402,Nakakalungkot po ang condition ng health center sa cebu city,Taglish,8/4/24,Region VII
+403,Gutom ang mga bata sa barangay namin. Tulong po sa delayed response!,Taglish,11/9/24,Region III
+404,"Bahala na attitude ng iba, pero salamat sa business support!",Taglish,11/19/23,Region III
+405,Great job on the ayuda distribution! Our community appreciates the effort.,English,8/7/23,Region VII
+406,Ang hirap po ng road maintenance dito sa bacolod 😭 long queues,Taglish,6/21/24,Region XI
+407,Thank you lgu for the disaster preparedness! Children have better access to services,English,6/23/24,NCR
+408,Mas maganda na ang health center ngayon sa zamboanga. Salamat lgu!,Taglish,9/8/23,Region VII
+409,Lgu services in iloilo city have improved significantly this year.,English,3/15/23,Region VII
+410,Maraming salamat sa lgu! Nakatulong kayo sa aming pamilya 🙏,Taglish,2/18/24,Region XI
+411,Public evacuation center in maynila is severely lacking. delayed response,English,11/5/23,Region XI
+412,Great job on the business support! Our community appreciates the effort.,English,6/18/24,Region XI
+413,I'm frustrated with inconsistent schedules at the baguio. Please fix!,English,2/14/24,NCR
+414,Jeepney shortage every rush hour. Fix po sa transport system!,Taglish,9/27/23,NCR
+415,I reported lack of resources weeks ago but no action taken. Disappointed.,English,6/26/24,NCR
+416,Why is evacuation center always delayed in baguio? This is unacceptable.,English,8/3/24,Region IV-A
+417,Jeepney shortage every weekends. Fix po sa transport system!,Taglish,4/23/24,Region IV-A
+418,Public public market in cagayan de oro is severely lacking. long queues,English,8/9/23,Region XI
+419,Public health center in cagayan de oro is severely lacking. broken infrastructure,English,2/5/24,Region IV-A
+420,The public market staff were very helpful during my visit to angeles city.,English,2/16/23,Region IV-A
+421,The disaster response in baguio needs improvement. inconsistent schedules,English,7/19/24,Region III
+422,"Bahala na attitude ng iba, pero salamat sa community programs!",Taglish,8/28/24,NCR
+423,Thank you lgu for the ayuda distribution! This helps our family survive,English,4/17/23,Region III
+424,"Bahala na attitude ng iba, pero salamat sa road repairs!",Taglish,3/23/24,Region VII
+425,I reported long queues weeks ago but no action taken. Disappointed.,English,3/5/23,NCR
+426,Lgu services in iloilo city have improved significantly this year.,English,2/17/24,Region IV-A
+427,Jeepney shortage every rush hour. Fix po sa transport system!,Taglish,7/31/23,Region III
+428,Public waste management in baguio is severely lacking. long queues,English,12/6/23,NCR
+429,"Bahala na attitude ng iba, pero salamat sa road repairs!",Taglish,9/17/24,Region III
+430,The water supply staff were very helpful during my visit to naga city.,English,3/21/23,NCR
+431,Maraming salamat sa lgu! Nakatulong kayo sa aming pamilya 🙏,Taglish,10/9/23,Region VII
+432,Maraming salamat sa lgu! Nakatulong kayo sa aming pamilya 🙏,Taglish,9/13/24,NCR
+433,Great job on the health services! Our community appreciates the effort.,English,5/8/23,Region IV-A
+434,I'm frustrated with unresponsive staff at the iloilo city. Please fix!,English,8/2/24,Region IV-A
+435,The new barangay hall in cebu city has made a huge difference!,English,3/3/23,Region III
+436,Thank you lgu for the business support! Our barangay is safer now,English,5/31/23,Region VII
+437,Maraming salamat sa lgu! Nakatulong kayo sa aming pamilya 🙏,Taglish,2/16/23,NCR
+438,Nakakalungkot po ang condition ng barangay hall sa baguio,Taglish,8/2/24,NCR
+439,Lgu services in cagayan de oro have improved significantly this year.,English,2/17/23,Region VII
+440,The health center in maynila needs improvement. long queues,English,12/10/24,Region III
+441,Why is barangay hall services always delayed in baguio? This is unacceptable.,English,11/29/23,Region XI
+442,Great job on the business support! Our community appreciates the effort.,English,7/30/24,Region IV-A
+443,The new barangay hall in naga city has made a huge difference!,English,4/23/23,Region VII
+444,Public barangay hall services in maynila is severely lacking. inconsistent schedules,English,2/5/24,Region XI
+445,Ang hirap po ng evacuation center dito sa davao city 😭 broken infrastructure,Taglish,2/22/24,Region IV-A
+446,I reported poor communication weeks ago but no action taken. Disappointed.,English,11/18/24,Region III
+447,Great job on the disaster preparedness! Our community appreciates the effort.,English,7/21/23,Region III
+448,Why is barangay hall services always delayed in baguio? This is unacceptable.,English,3/15/24,Region III
+449,Great job on the community programs! Our community appreciates the effort.,English,5/9/23,Region VII
+450,The public market staff were very helpful during my visit to zamboanga.,English,1/27/24,Region IV-A
+451,Lgu services in iloilo city have improved significantly this year.,English,9/1/24,NCR
+452,I'm frustrated with long queues at the bacolod. Please fix!,English,7/28/24,Region XI
+453,Jeepney shortage every holiday season. Fix po sa transport system!,Taglish,2/17/24,NCR
+454,I reported long queues weeks ago but no action taken. Disappointed.,English,11/20/23,Region III
+455,The new public market in maynila has made a huge difference!,English,1/25/23,Region XI
+456,Maraming salamat sa lgu! Nakatulong kayo sa aming pamilya 🙏,Taglish,5/5/23,Region III
+457,Public evacuation center in baguio is severely lacking. broken infrastructure,English,4/11/24,Region VII
+458,Maraming salamat sa lgu! Nakatulong kayo sa aming pamilya 🙏,Taglish,10/24/23,Region IV-A
+459,Great job on the road repairs! Our community appreciates the effort.,English,3/28/24,Region VII
+460,Why is evacuation center always delayed in cagayan de oro? This is unacceptable.,English,12/12/23,NCR
+461,The evacuation center staff were very helpful during my visit to maynila.,English,4/18/23,Region XI
+462,Thank you lgu for the community programs! Children have better access to services,English,7/11/24,Region XI
+463,"Bahala na attitude ng iba, pero salamat sa ayuda distribution!",Taglish,1/20/24,Region III
+464,Nakakalungkot po ang condition ng evacuation center sa bacolod,Taglish,8/16/24,Region XI
+465,Great job on the road repairs! Our community appreciates the effort.,English,7/16/23,NCR
+466,Great job on the business support! Our community appreciates the effort.,English,11/2/23,Region XI
+467,Lgu services in bacolod have improved significantly this year.,English,1/13/23,Region IV-A
+468,Lgu services in naga city have improved significantly this year.,English,4/18/24,Region IV-A
+469,Thank you lgu for the health services! Our barangay is safer now,English,3/21/23,NCR
+470,Why is road maintenance always delayed in angeles city? This is unacceptable.,English,9/21/24,Region XI
+471,The new road in cebu city has made a huge difference!,English,1/25/23,Region III
+472,The evacuation center in davao city needs improvement. inconsistent schedules,English,2/11/23,Region IV-A
+473,The transport system in zamboanga needs improvement. inconsistent schedules,English,1/25/24,Region III
+474,Great job on the business support! Our community appreciates the effort.,English,8/14/24,NCR
+475,Gutom ang mga bata sa barangay namin. Tulong po sa poor communication!,Taglish,9/7/24,Region VII
+476,The new barangay hall in bacolod has made a huge difference!,English,6/30/23,Region III
+477,Great job on the road repairs! Our community appreciates the effort.,English,1/7/23,Region III
+478,The new evacuation center in naga city has made a huge difference!,English,10/16/24,Region XI
+479,Lgu services in angeles city have improved significantly this year.,English,11/14/23,NCR
+480,I'm frustrated with delayed response at the cebu city. Please fix!,English,4/9/23,Region III
+481,I'm frustrated with long queues at the baguio. Please fix!,English,8/30/24,Region XI
+482,The new evacuation center in baguio has made a huge difference!,English,9/14/23,Region III
+483,Bakit po ang tagal ng transport system sa baguio? Nakakainis na!,Taglish,8/5/24,Region XI
+484,The waste management staff were very helpful during my visit to cagayan de oro.,English,1/27/24,Region III
+485,Lgu services in cagayan de oro have improved significantly this year.,English,1/11/23,Region IV-A
+486,I'm frustrated with poor communication at the cebu city. Please fix!,English,8/17/23,NCR
+487,Thank you lgu for the road repairs! Children have better access to services,English,10/3/23,Region IV-A
+488,Lgu services in davao city have improved significantly this year.,English,1/14/24,NCR
+489,Lgu services in naga city have improved significantly this year.,English,5/29/23,Region III
+490,Why is transport system always delayed in angeles city? This is unacceptable.,English,8/13/24,NCR
+491,Lgu services in naga city have improved significantly this year.,English,5/13/24,Region III
+492,Public waste management in cebu city is severely lacking. inconsistent schedules,English,10/28/23,NCR
+493,The barangay hall services in maynila needs improvement. poor communication,English,10/5/24,Region XI
+494,Thank you lgu for the ayuda distribution! Small businesses can thrive,English,10/22/23,NCR
+495,The water supply staff were very helpful during my visit to cebu city.,English,6/5/24,Region III
+496,I'm frustrated with unresponsive staff at the maynila. Please fix!,English,3/27/24,Region III
+497,The barangay hall services in zamboanga needs improvement. inconsistent schedules,English,9/20/23,Region III
+498,Thank you lgu for the health services! This helps our family survive,English,1/30/24,NCR
+499,Lgu services in bacolod have improved significantly this year.,English,5/26/24,Region IV-A
+500,The health center in bacolod needs improvement. broken infrastructure,English,11/25/24,Region XI
